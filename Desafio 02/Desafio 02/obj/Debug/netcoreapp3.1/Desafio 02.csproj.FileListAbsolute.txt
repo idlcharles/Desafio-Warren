@@ -1,0 +1,14 @@
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.exe
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.deps.json
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.runtimeconfig.json
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.runtimeconfig.dev.json
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.dll
+C:\VS treino\Desafio 02\Desafio 02\bin\Debug\netcoreapp3.1\Desafio 02.pdb
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.csproj.AssemblyReference.cache
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.AssemblyInfoInputs.cache
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.AssemblyInfo.cs
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.csproj.CoreCompileInputs.cache
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.dll
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.pdb
+C:\VS treino\Desafio 02\Desafio 02\obj\Debug\netcoreapp3.1\Desafio 02.genruntimeconfig.cache
